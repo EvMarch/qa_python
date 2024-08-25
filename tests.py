@@ -1,3 +1,4 @@
+#случайно закоммитила предыдущие с аккаунта мужа.. всё делала сама! Он вообще devops
 from main import BooksCollector
 import pytest
 # класс TestBooksCollector объединяет набор тестов, которыми мы покрываем наше приложение BooksCollector
